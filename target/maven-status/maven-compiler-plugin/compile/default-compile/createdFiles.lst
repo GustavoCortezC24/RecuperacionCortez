@@ -1,0 +1,6 @@
+com\tecsup\petclinic\services\PetServiceImpl.class
+com\tecsup\petclinic\services\PetService.class
+com\tecsup\petclinic\PetClinicApplication.class
+com\tecsup\petclinic\entities\Pet.class
+com\tecsup\petclinic\exception\PetNotFoundException.class
+com\tecsup\petclinic\repositories\PetRepository.class
